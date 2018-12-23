@@ -1,0 +1,27 @@
+{
+    "name": "xd-list-manager",
+    "description": "Complete list manager for AngularJS",
+    "main": "dist/xd-list-manager.js",
+    "authors": [
+        "Xavier Dubuc"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "list",
+        "manager"
+    ],
+    "homepage": "https://www.xavierdubuc.com",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "angular": "angularjs#^1.6.1",
+        "xd-loader": "xavierdubuc/angularjs-loader",
+        "xd-multiple-request-handler": "xavierdubuc/angular-multiple-request-handler"
+    }
+}

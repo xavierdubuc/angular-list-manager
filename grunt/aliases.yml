@@ -1,0 +1,5 @@
+build:
+    - jshint
+    - concat
+    - ngAnnotate
+    - uglify
